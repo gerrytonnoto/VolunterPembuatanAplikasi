@@ -3,3 +3,4 @@ Repository ini digunakan seabagai sayembara pencarian volunter untuk pembuatan a
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**  
 
 Berikut adalah volunter yang diterima:
+* Gerry Tonnoto, [Linkedin](https://www.linkedin.com/in/gerry-tonnoto/).
